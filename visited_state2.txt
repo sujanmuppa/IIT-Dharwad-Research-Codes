@@ -1,0 +1,18 @@
+Graph 1
+Adjacency List: [[4, 5], [4, 5], [4, 5], [4, 5], [0, 1, 2, 3], [0, 1, 2, 3]]
+Final Visited: 0,0,0,0,1,1
+
+We are Cooked
+
+Graph 2
+Adjacency List: [[4, 5], [4, 5], [4, 5], [4, 5], [0, 1, 2, 3, 5], [0, 1, 2, 3, 4]]
+Final Visited: 0,0,0,0,1,1
+
+We are Cooked
+
+Graph 1
+Adjacency List: [[2], [2], [0, 1]]
+Final Visited: 1,1,1
+
+We are Cooked
+

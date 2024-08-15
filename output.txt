@@ -1,0 +1,10 @@
+Graph2does not satisfy prop1
+adjlist[[2, 3], [3], [0], [0, 1]]
+ecc3list[1, 2]
+(0, 0, 0, 0)
+
+Graph3does not satisfy prop1
+adjlist[[2, 3], [3], [0], [0, 1]]
+ecc3list[1, 2]
+(0, 0, 0, 0)
+
